@@ -1,0 +1,1 @@
+export type { PatientCreationData } from './user.js';
